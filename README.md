@@ -1,3 +1,5 @@
+# Updates
+
 ## Recent changes
 
 In March 2020, the Supreme Court upheld the constitutional validity of various provisions of the IBC, including Section 29A that bars defaulting promoters from bidding for their own companies under resolution
