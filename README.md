@@ -23,3 +23,6 @@ PTI. "Insolvency & Bankruptcy Code cannot be used as tool for recovery: NCLT." B
 Online Bureau ETLegalWorld. "NCLT rules out that IBC Code cannot be used as a tool for recovery." ET LegalWorld, 29 Sep. 2023
 
 LiveLaw News Network. "Weekly Update Of IBC Cases: 20 To 26 March 2023." LiveLaw, 29 Mar. 2023
+
+***This is a data file. To peruse recent news, view the post [here](https://mintstreettodalalstreet.com/). To study pertinent research, view the article [here](https://www.linkedin.com/pulse/corporate-insolvency-resolution-india-dhanya-menon).***
+
