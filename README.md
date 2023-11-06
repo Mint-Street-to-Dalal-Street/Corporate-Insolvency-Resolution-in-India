@@ -24,5 +24,5 @@ Online Bureau ETLegalWorld. "NCLT rules out that IBC Code cannot be used as a to
 
 LiveLaw News Network. "Weekly Update Of IBC Cases: 20 To 26 March 2023." LiveLaw, 29 Mar. 2023
 
-***This is a data file. To peruse recent news, view the post [here](https://mintstreettodalalstreet.com/). To study pertinent research, view the article [here](https://www.linkedin.com/pulse/corporate-insolvency-resolution-india-dhanya-menon).***
+***This is a data file. To peruse recent news, view the post [here](https://mintstreettodalalstreet.blogspot.com/2018/07/the-indian-corporate-defaulters-hall-of-fame.html). To study pertinent research, view the article [here](https://www.linkedin.com/pulse/corporate-insolvency-resolution-india-dhanya-menon).***
 
