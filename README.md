@@ -1,6 +1,6 @@
 # The Complete Annotated Bibliography of the Indian Corporate Insolvency Regime 
 
-## Amendments 
+## Amendments
 
 In March 2020, the Supreme Court upheld the constitutional validity of various provisions of the IBC, including Section 29A that bars defaulting promoters from bidding for their own companies under resolution
 
@@ -12,7 +12,7 @@ In September 2020, the Supreme Court ruled that homebuyers who have obtained fav
 
 In October 2020, the NCLT Delhi approved a resolution plan submitted by Kalrock Capital and Murari Lal Jalan consortium for revival of Jet Airways, which was undergoing IRP since June 2019. The resolution plan envisaged infusion of ₹600 crore as equity into Jet Airways and payment of ₹380 crore to financial creditors over a period of five years.
 
-# Articles
+## Articles
 
 Mishra, Pallavi. "MCA looks to turbocharge IBC process." The Hindu Business Line, 28 Sep. 2023
 
