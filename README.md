@@ -1,4 +1,4 @@
-# The Complete Annotated Bibliography
+# The Complete Annotated Bibliography of the Indian Corporate Insolvency Regime 
 
 ## Amendments 
 
