@@ -1,6 +1,4 @@
-# The Complete Annotated Bibliography
-
-## Amendments
+## Press Releases
 
 In March 2020, the Supreme Court upheld the constitutional validity of various provisions of the IBC, including Section 29A that bars defaulting promoters from bidding for their own companies under resolution
 
@@ -8,11 +6,11 @@ In June 2020, the Central Government suspended initiation of any corporate insol
 
 In September 2020, the Supreme Court ruled that homebuyers who have obtained favourable orders from consumer forums against real estate developers can initiate IRP against them under IBC without being barred by limitation period. The Supreme Court also held that homebuyers are financial creditors under IBC as they have advanced money to developers for purchase of flats or apartments 
 
-## Cases
+## Case Publications 
 
 In October 2020, the NCLT Delhi approved a resolution plan submitted by Kalrock Capital and Murari Lal Jalan consortium for revival of Jet Airways, which was undergoing IRP since June 2019. The resolution plan envisaged infusion of ₹600 crore as equity into Jet Airways and payment of ₹380 crore to financial creditors over a period of five years.
 
-## Articles
+## News Articles
 
 Mishra, Pallavi. "MCA looks to turbocharge IBC process." The Hindu Business Line, 28 Sep. 2023
 
@@ -24,5 +22,5 @@ Online Bureau ETLegalWorld. "NCLT rules out that IBC Code cannot be used as a to
 
 LiveLaw News Network. "Weekly Update Of IBC Cases: 20 To 26 March 2023." LiveLaw, 29 Mar. 2023
 
-***This is a data file. To peruse recent news, view the post [here](https://mintstreettodalalstreet.blogspot.com/2018/07/the-indian-corporate-defaulters-hall-of-fame.html). To study pertinent research, view the article [here](https://www.linkedin.com/pulse/corporate-insolvency-resolution-india-dhanya-menon).***
+***These are the references. For the review article, view the webpage [here](https://mintstreettodalalstreet.blogspot.com/2023/10/corporate-insolvency0resolution-in-india.html) or [here](https://www.linkedin.com/pulse/corporate-insolvency-resolution-india-dhanya-menon).***
 
